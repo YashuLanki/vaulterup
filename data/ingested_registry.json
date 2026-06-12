@@ -1,0 +1,16 @@
+{
+  "ff48be0100fb0f3869b8f39000286dd9e65a3e5cbf5f9bf6c85e97ccbf67df5d": {
+    "filename": "110408 Magic Ranch 50 - 2005 Survey.pdf",
+    "ingested_at": "2026-06-12T11:30:00.589220",
+    "chunks": 26,
+    "pages": 3,
+    "ocr_used": true
+  },
+  "95b585fbd6b18b92eef27cb59cb365d5c94a75cffab3fe564645f185442fccde": {
+    "filename": "110526 2011 Magic Ranch 50 ALTA.pdf",
+    "ingested_at": "2026-06-12T11:31:06.089385",
+    "chunks": 36,
+    "pages": 3,
+    "ocr_used": true
+  }
+}
